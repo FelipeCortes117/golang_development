@@ -4,7 +4,7 @@ import (
     "fmt"
     "os"
 
-    "gitlab.com/EndTechCompany/iod-internet-open-device/raspgpsGolang/src/github.com/raspgps/code_gps_gsm_go/gpio"
+    "github.com/FelipeCortes117/golang_development/gpio"
 )
 
 func main() {
